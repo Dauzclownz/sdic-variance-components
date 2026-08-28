@@ -1,0 +1,13 @@
+dataset,class_id,class_name,count,official_expected_count_if_available,status
+MT,0,Blowhole,115,115,OK
+MT,1,Break,85,85,OK
+MT,2,Crack,57,57,OK
+MT,3,Fray,32,32,OK
+MT,4,Free,952,952,OK
+MT,5,Uneven,103,103,OK
+NEU,0,crazing,300,300,OK
+NEU,1,inclusion,300,300,OK
+NEU,2,patches,300,300,OK
+NEU,3,pitted_surface,300,300,OK
+NEU,4,rolled-in_scale,300,300,OK
+NEU,5,scratches,300,300,OK

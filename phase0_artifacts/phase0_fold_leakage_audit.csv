@@ -1,0 +1,11 @@
+dataset,fold,n_train,n_val,n_test,n_final_test,train_val_id,train_test_id,val_test_id,train_test_sha,val_test_sha,finaltest_in_dev,status
+MT,0,857,215,272,0,0,0,0,0,0,0,PASS
+MT,1,860,215,269,0,0,0,0,0,0,0,PASS
+MT,2,840,211,293,0,0,0,0,0,0,0,PASS
+MT,3,883,221,240,0,0,0,0,0,0,0,PASS
+MT,4,859,215,270,0,0,0,0,0,0,0,PASS
+NEU,0,1152,288,360,0,0,0,0,0,0,0,PASS
+NEU,1,1151,288,361,0,0,0,0,0,0,0,PASS
+NEU,2,1152,288,360,0,0,0,0,0,0,0,PASS
+NEU,3,1152,289,359,0,0,0,0,0,0,0,PASS
+NEU,4,1152,288,360,0,0,0,0,0,0,0,PASS

@@ -1,0 +1,13 @@
+family,metric,expected_direction,median_spearman,monotonicity_score,n_images,status
+lens_contamination,local_sharpness_variance,increase,-0.65,-0.65,24,FAIL
+vibration_jitter,sharpness,decrease,-0.9,0.9,24,PASS
+scanline_banding,row_band_energy,increase,0.9,0.9,24,PASS
+defocus_blur,sharpness,decrease,-1.0,1.0,24,PASS
+shot_noise,noise_estimate,increase,1.0,1.0,24,PASS
+jpeg,blockiness,increase,1.0,1.0,24,PASS
+motion_blur,sharpness,decrease,-1.0,1.0,24,PASS
+gaussian_noise,noise_estimate,increase,1.0,1.0,24,PASS
+vignetting,centre_periphery_ratio,increase,1.0,1.0,24,PASS
+contrast_loss,luminance_std,decrease,-1.0,1.0,24,PASS
+illumination_gradient,illumination_gradient,increase,1.0,1.0,24,PASS
+brightness_drift,luminance_deviation,increase,1.0,1.0,24,PASS

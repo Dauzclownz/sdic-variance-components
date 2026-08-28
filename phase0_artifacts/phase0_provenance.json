@@ -1,0 +1,15 @@
+{
+  "phase0_seed": 20260821,
+  "timestamp_utc": "2026-08-20T21:19:00Z",
+  "python": "3.12.13",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+  "numpy": "2.0.2",
+  "pandas": "2.2.3",
+  "opencv": "4.10.0",
+  "torch": "2.11.0+cu128",
+  "timm": "1.0.11",
+  "sklearn": "1.5.2",
+  "statsmodels": "0.14.4",
+  "device": "cuda",
+  "gpu": "NVIDIA L4"
+}

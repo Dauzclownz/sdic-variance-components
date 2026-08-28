@@ -1,0 +1,5 @@
+calibrator,kind,n_params,calibration_rows,calibration_data_hash,loss_start,loss_end,T_min,T_med,T_max,test_nll,test_ece,test_acc,problems
+C1,scalar,1,296,69333e86d3378b37,0.001,0.0,0.5647,0.5647,0.5647,2.7293,0.3473,0.5156,none
+C2,scalar,1,2960,7a1cbf75831cfd41,0.5921,0.503,1.7144,1.7144,1.7144,1.2734,0.2553,0.5156,none
+C4,linear,9,2960,7a1cbf75831cfd41,0.5955,0.4375,1.381,1.9129,2.4386,1.3318,0.2333,0.5156,none
+C3,mlp,833,2960,7a1cbf75831cfd41,0.5955,0.3747,0.0106,0.7224,3.8719,6.682,0.3305,0.5156,none

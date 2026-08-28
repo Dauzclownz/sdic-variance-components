@@ -1,0 +1,67 @@
+{
+  "manifest_sha256": "cad0c8fdbd6697284ff9863a4c720e751172632765cfbd4dbb89fcfb838916ef",
+  "deterministic": true,
+  "datasets": {
+    "MT": {
+      "total_images": 1344,
+      "per_class": {
+        "Free": 952,
+        "Blowhole": 115,
+        "Uneven": 103,
+        "Break": 85,
+        "Crack": 57,
+        "Fray": 32
+      },
+      "per_official_split": {
+        "none": 1344
+      },
+      "unique_sha256": 1344,
+      "corrupt_files": 0,
+      "dimensions": {
+        "height": [
+          222,
+          403
+        ],
+        "width": [
+          103,
+          632
+        ],
+        "channels": [
+          1
+        ]
+      }
+    },
+    "NEU": {
+      "total_images": 1800,
+      "per_class": {
+        "crazing": 300,
+        "inclusion": 300,
+        "patches": 300,
+        "pitted_surface": 300,
+        "rolled-in_scale": 300,
+        "scratches": 300
+      },
+      "per_official_split": {
+        "none": 1800
+      },
+      "unique_sha256": 1799,
+      "corrupt_files": 0,
+      "dimensions": {
+        "height": [
+          200,
+          200
+        ],
+        "width": [
+          200,
+          200
+        ],
+        "channels": [
+          3
+        ]
+      }
+    }
+  },
+  "blocked_datasets": {
+    "KSDD2": "KaggleApiHTTPError: 403 Client Error.\n\nYou don't have permission to access resource at URL: https://api.kaggle.com/v1/datasets.DatasetApiService/GetDataset. Please make sure you are authenticated if you are trying to access a private resource or a resource requiring consent."
+  }
+}

@@ -1,0 +1,5 @@
+dataset,model,n_samples,n_classes,balanced_accuracy,macro_f1,auroc,chance_balanced_accuracy,permutation_null_mean,permutation_p,status
+MT,logreg,353,6,0.363,0.3301,0.702,0.1667,0.16,0.03225806451612903,WARN
+MT,random_forest,353,6,0.3949,0.3937,0.7208,0.1667,0.1687,0.03225806451612903,WARN
+NEU,logreg,396,6,0.9091,0.9083,0.9837,0.1667,0.1694,0.03225806451612903,FAIL
+NEU,random_forest,396,6,0.9015,0.9015,0.9913,0.1667,0.1649,0.03225806451612903,FAIL
