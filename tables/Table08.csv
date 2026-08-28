@@ -1,0 +1,4 @@
+Dataset,ρ range,median,SE ratio
+"NEU-CLS (balanced, textural)",0.033–0.101,0.066,5.6–10.1×
+"Magnetic Tile (imbalanced, localized)",0.018–0.325,0.118,5.1–25.5×
+Pooled,0.018–0.325,0.087,5.1–25.5×

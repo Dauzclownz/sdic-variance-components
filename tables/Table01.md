@@ -1,0 +1,14 @@
+| Family               | Physical cause                             | Split   |
+|:---------------------|:-------------------------------------------|:--------|
+| Defocus blur         | Working-distance drift, autofocus failure  | train   |
+| Motion blur          | Strip speed exceeding exposure time        | test    |
+| Shot noise           | Photon-limited short exposure              | test    |
+| Read noise           | Sensor amplifier noise at high gain        | train   |
+| Brightness drift     | LED array output decay                     | test    |
+| Contrast loss        | Steam, oil mist, haze in the light path    | test    |
+| Vignetting           | Optical falloff, lamp ageing at field edge | test    |
+| Banding              | Line-scan synchronisation error            | train   |
+| JPEG artefacts       | Frame-grabber compression                  | train   |
+| Window contamination | Dust or oil on the protective window       | train   |
+| Vibration jitter     | Gantry mechanical resonance                | test    |
+| Perspective drift    | Camera mount settling                      | train   |

@@ -1,0 +1,5 @@
+| Regime       | Metric                 |     ρ | 95% CI         | SE ratio   |
+|:-------------|:-----------------------|------:|:---------------|:-----------|
+| Frozen probe | paired NLL (C4 vs. C2) | 0.069 | [0.027, 0.311] | 8.2×       |
+| Frozen probe | accuracy deficit       | 0.173 | [0.075, 0.558] | 13.8×      |
+| Fine-tuned   | accuracy deficit       | 0.313 | [0.150, 0.733] | 20.3×      |

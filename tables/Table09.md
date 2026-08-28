@@ -1,0 +1,8 @@
+|                                            | NEU-CLS only (primary)   | Both datasets (extension)   |
+|:-------------------------------------------|:-------------------------|:----------------------------|
+| Comparisons                                | 10                       | 20                          |
+| Family heterogeneity ρ                     | 0.033–0.101              | 0.018–0.325                 |
+| Median ρ                                   | 0.066                    | 0.087                       |
+| SE inflation                               | 5.6–10.1×                | 5.1–25.5×                   |
+| Intervals excluding zero                   | 10/10                    | 20/20                       |
+| Image-significant comparisons that reverse | all                      | all                         |

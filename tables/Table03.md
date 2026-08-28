@@ -1,0 +1,13 @@
+| Arm                        | NLL           | ECE           |   AURC | Beats C2? (image / family)   |
+|:---------------------------|:--------------|:--------------|-------:|:-----------------------------|
+| C0 uncalibrated            | 1.126 ± 0.093 | 0.123 ± 0.010 |  0.091 | – / –                        |
+| C1 scalar, clean fit       | 1.079 ± 0.180 | 0.112 ± 0.019 |  0.088 | no / no                      |
+| C2 scalar, augmented fit   | 0.779 ± 0.025 | 0.038 ± 0.012 |  0.095 | – / –                        |
+| C3 MLP, raw q              | 2.408 ± 0.566 | 0.126 ± 0.013 |  0.112 | no / no                      |
+| C4 linear, raw q           | 0.789 ± 0.180 | 0.033 ± 0.007 |  0.069 | no / no                      |
+| C5 linear, class one-hot   | 0.863 ± 0.136 | 0.043 ± 0.009 |  0.087 | no / no                      |
+| C6c linear, standardised q | 1.030 ± 0.297 | 0.047 ± 0.011 |  0.09  | no / no                      |
+| C7 bounded, standardised q | 0.869 ± 0.135 | 0.041 ± 0.008 |  0.075 | no / no                      |
+| C7q bounded, raw q         | 0.763 ± 0.084 | 0.033 ± 0.005 |  0.068 | yes / no                     |
+| C8 linear, class + q       | 0.945 ± 0.258 | 0.043 ± 0.016 |  0.075 | no / no                      |
+| C8b bounded, class + q     | 0.821 ± 0.134 | 0.038 ± 0.013 |  0.069 | no / no                      |
