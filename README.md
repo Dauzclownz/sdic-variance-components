@@ -69,7 +69,7 @@ Neither notebook needs a local install, a Google Drive mount, or a Kaggle token.
 
 ### Regenerate every table and figure
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dauzclownz/sdic-variance-components/blob/main/notebooks/sdic_tables_and_figures.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Dauzclownz/sdic-variance-components/blob/main/sdic_tables_and_figures.ipynb)
 
 Runs in about a minute. It rebuilds Tables 1 and 3-11 and Figures 1-4. More usefully, it
 **recomputes every derived quantity from its inputs and checks the result against the number
