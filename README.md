@@ -86,7 +86,7 @@ inside the illustrations.
 
 ### Reproduce the fine-tuning control (Table 10)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/Dauzclownz/sdic-variance-components/blob/main/notebooks/table10_reproduction.ipynb](https://github.com/Dauzclownz/sdic-variance-components/blob/main/table10_reproduction.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Dauzclownz/sdic-variance-components/blob/main/table10_reproduction.ipynb)
 
 Downloads NEU-CLS directly, verifies what arrived against a content checksum, builds a corruption
 cache, fine-tunes ResNet-50 across three seeds and five folds, and recomputes ρ per seed. About
