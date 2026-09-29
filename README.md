@@ -4,7 +4,7 @@ Code, derived data and audit artifacts for the paper:
 
 > **For cross-corruption claims, the corruption family is the relevant unit of uncertainty: a variance-components analysis for surface-defect inspection**
 > Muhammad Nur Firdaus, Universitas Nusa Mandiri
-> Submitted to *Machine Vision and Applications*
+> Submitted to *Pattern Analysis and Applications*
 
 ---
 
