@@ -1,0 +1,31 @@
+Per-image values
+  rows: 306900 and 306900, unmatched: 0
+  rows whose NLL differs by more than 1e-6: 235584 (76.8%)
+  mean |difference in NLL|: 0.0193, largest: 25.43
+  image-condition pairs whose predicted class changed: 2 of 27900
+    fold 0, image 897, vignetting, severity 2
+    fold 4, image 790, motion_blur, severity 4
+
+Mean NLL of each arm under the held-out families (Table 3)
+       run1    run2  difference
+arm                            
+C1   1.1596  1.1600      0.0003
+C2   0.8465  0.8466      0.0001
+C3   2.3787  2.4109      0.0322
+C4   0.9330  0.9314     -0.0016
+C5   0.9355  0.9356      0.0001
+C5o  0.9244  0.9244      0.0000
+C6c  1.0847  1.0844     -0.0003
+C7   0.9366  0.9366     -0.0000
+C7q  0.8748  0.8746     -0.0002
+C8   1.0740  1.0726     -0.0014
+C8b  0.9395  0.9390     -0.0005
+
+Comparison-level quantities, grid G1, 18 comparisons (largest absolute change)
+  mean           0.0017
+  se_ratio       0.0640
+  se_ratio_lo    0.0398
+  t5_rho         0.0013
+  t5_rho_lo      0.0006
+  rho_family     0.0013
+  rho_family_lo  0.0006
