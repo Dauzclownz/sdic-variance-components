@@ -1,0 +1,15 @@
+{
+  "alpha": 0.05,
+  "seed": 20261101,
+  "pairs": [],
+  "n_perm": 20000,
+  "n_perm_wts": 5000,
+  "n_gpq": 20000,
+  "n_boot": 2000,
+  "targets": null,
+  "amp_method": "interp",
+  "split_tag": "-split",
+  "light_splits": true,
+  "out_dir": "/tmp/claude-0/-home-claude/ce5594db-e303-5003-a51f-53ba0c363a8f/scratchpad/run1/results_fixed",
+  "demo": false
+}
