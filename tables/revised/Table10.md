@@ -1,0 +1,5 @@
+| Regime | Metric | rho | Lower bound on rho | SE ratio [95% CI] |
+|---|---|---|---|---|
+| Frozen probe | paired NLL (C4 vs. C2) | 0.069 | 0.027 | 8.25 [5.13, 20.24] |
+| Frozen probe | accuracy deficit | 0.173 | 0.074 | 13.74 [8.56, 33.73] |
+| Fine-tuned | accuracy deficit | 0.313 | 0.150 | 20.27 [12.62, 49.75] |
